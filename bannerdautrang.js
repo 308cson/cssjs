@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://marketingbdshcm.blogspot.com/ target='_blank'><img src='https://advertisingvietnam.com/wp-content/uploads/2018/06/advertising-vietnam-logo.jpg' width='500px'/><br/>Kỹ thuật đẩy top Google vượt trội</a>. Chạy tại Sơn Corp. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://marketingbdshcm.blogspot.com/ target='_blank'><img src='https://advertisingvietnam.com/wp-content/uploads/2018/06/advertising-vietnam-logo.jpg' width='500px'/><br/>Kỹ thuật đẩy top Google vượt trội</a>. Chạy tại CSơn Corp. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
